@@ -1,0 +1,3 @@
+export const GET_NEWS_REQUEST = 'GET_NEWS_REQUEST'
+export const GET_NEWS_DONE = 'GET_NEWS_DONE'
+export const GET_NEWS_ERROR = 'GET_NEWS_ERROR'
